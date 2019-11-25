@@ -10,4 +10,4 @@ Feature: Bad usage
     And I handle everything except the grounds
     When I take "50" coffees
     Then message "Empty grounds" should be displayed
-    And a hot coffee should be served
+    And a coffee should be served
