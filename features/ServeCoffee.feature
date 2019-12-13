@@ -3,6 +3,9 @@ Feature: Serve coffee
     # **In order to** enjoy the rest of the day
     # **As a** coffee lover
     # **I can** get coffee from the machine
+    
+  @priority-high
+  Scenario: Simple easy use
   
   @priority-high
   Scenario: Simple easy use
