@@ -6,6 +6,9 @@ Feature: Serve coffee
 
   @priority-high
   Scenario: Simple easy use
+  
+  @priority-high
+  Scenario: Simple easy use
     # Well, sometimes, you just get a coffee.
     Given the coffee machine is started
     When I take a coffee
