@@ -10,4 +10,3 @@ Feature: Serve coffee
     Given the coffee machine is started
     When I take a coffee
     Then it serve coffee
-    And thank you
