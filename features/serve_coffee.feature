@@ -9,3 +9,5 @@ Feature: Serve coffee
     # Well, sometimes, you just get a coffee.
     Given the coffee machine is started
     When I take a coffee
+    Then it serve coffee
+    And thank you
