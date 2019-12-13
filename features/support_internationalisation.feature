@@ -5,7 +5,7 @@ Feature: Support internationalisation
     # **I can** select the language on the coffee machine
 
   @priority-medium
-  Scenario Outline: Messages are based on language (<hiptest-uid>)
+  Scenario Outline: Messages are based on language
     When I start the coffee machine using language "<language>"
     Then message "<ready_message>" should be displayed
 
