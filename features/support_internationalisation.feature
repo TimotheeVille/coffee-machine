@@ -1,9 +1,9 @@
 
 
 Feature: Support internationalisation
-    # **In order to** practice my use of greetings in several languages
-    # **As a** polyglot coffee lover
-    # **I can** select the language on the coffee machine
+    As a polyglot coffee lover
+    I can select the language on the coffee machine
+    So I can practice my use of greetings in several languages
 
     Background:
         Given a user
