@@ -2,7 +2,7 @@
 
 Feature: Support internationalisation
     As a polyglot coffee lover
-    I can select the language on the coffee machine
+    I can select my favorite language on the coffee machine
     So I can practice my use of greetings in several languages
 
     Background:
